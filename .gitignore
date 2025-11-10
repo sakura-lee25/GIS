@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+public/img/ignore
+=======
+
+=======
+public/img/profiles
+public/blog
+public/recommendation
+>>>>>>> newfeature
+
 # History files
 .Rhistory
 .Rapp.history
