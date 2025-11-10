@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .Rproj.user
 .Rhistory
 .RData
@@ -54,3 +55,22 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 >>>>>>> 95783e0781aba95e5ab77464e6d18517efe90113
+=======
+public/img/ignore
+=======
+public/img/profiles
+public/blog
+public/recommendation
+>>>>>>> newfeature
+>>>>>>> af90345a15110a51b8f14ba5340dbd5301241e84
+
+<<<<<<< HEAD
+public/img/ignore
+=======
+
+=======
+public/img/profiles
+public/blog
+public/recommendation
+>>>>>>> newfeature
+
